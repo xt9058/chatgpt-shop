@@ -147,3 +147,7 @@ V3.2:
 新增无限key轮询功能，后台自己导入
 优化前端CSS，用户登陆后窗口可关闭
 新增是否开启用户每日都有免费体验次数(默认关闭)
+![QQ图片20230518100458](https://github.com/xt9058/chatgpt-shop/assets/117225908/990f4c63-5591-439d-bd39-5ba5fe3a2d2d)
+
+![QQ图片20230518100517](https://github.com/xt9058/chatgpt-shop/assets/117225908/6c3c31b9-5ddf-40d1-af2e-f061425a6998)
+![QQ图片20230518100453](https://github.com/xt9058/chatgpt-shop/assets/117225908/2f646ac3-472e-4394-8543-53a42f96f2a6)
